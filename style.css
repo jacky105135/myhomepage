@@ -7,5 +7,5 @@ html,body{
 }
 body{
     background: url(119.jpg) no-repeat center center;
-    background-size: cover;
+    background-size: auto;
 }

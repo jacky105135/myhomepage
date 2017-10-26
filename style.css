@@ -9,3 +9,12 @@ body{
     background: url(119.jpg) no-repeat center center;
     background-size: cover;
 }
+.container{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    color: #FFFFFF;
+    font: 900 96px 'Montserrat', sans-serif;;
+}

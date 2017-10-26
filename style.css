@@ -2,9 +2,9 @@
     margin: 0;
     padding: 0;
 }
-html,body{
+/*html,body{
     height:100%;
-}
+}*/
 body{
     background: url(119.jpg) no-repeat center center;
     background-size: cover;

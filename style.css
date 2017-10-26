@@ -6,6 +6,6 @@ html,body{
     height:100%;
 }
 body{
-    background: url(119.jpg)  center center;
+    background: url(119.jpg) no-repeat center center;
     background-size: auto;
 }

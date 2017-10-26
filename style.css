@@ -2,8 +2,10 @@
     margin: 0;
     padding: 0;
 }
+html,body{
+    height:100%;
+}
 body{
-    background:url('images.jpg');
+    background:url('images.jpg') no-repeat center center;
     background-size:cover;
-    background-repeat:no-repeat;
 }

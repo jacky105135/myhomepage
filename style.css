@@ -36,7 +36,7 @@ ul{
     margin: 0;
     padding: 0;
 }
-.box li{
+.container li{
     display: inline-block;
     margin: 6px;
     list-style: none;

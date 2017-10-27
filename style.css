@@ -32,4 +32,12 @@ body{
 .container-img{
     border-radius: 50%;  
 }
-
+u1{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}

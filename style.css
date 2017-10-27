@@ -45,4 +45,9 @@ ul{
     color: white;
     text-decoration: none;
     font-size: 60px;
+    transition: all ease-in-out 250ms;
+}
+.container li a:hover{
+    color:#d3d3d3;
+    
 }

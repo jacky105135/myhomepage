@@ -59,7 +59,7 @@ ul{
 #sidebar {
     background:rgba(235, 157, 6, 0.77);
     width:250px;
-    height:150%;
+    height:100%;
     display:block;
     position:absolute;
     left:-250px;
@@ -71,6 +71,7 @@ ul{
     font-family:'Montserrat', sans-serif;
 }
 #sidebar ul li a{
+    font-size:20px;
     color:#0e3db9;
     border-bottom:1px solid #111;
     display:block;

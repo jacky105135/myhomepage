@@ -62,7 +62,7 @@ ul{
     height:100%;
     display:block;
     position:absolute;
-    left:0px;
+    left:-200px;
     top:0px;
 }
 #sidebar ul li{
@@ -76,4 +76,7 @@ ul{
     width:180px;
     padding:10px;    
     text-decoration:none;
+}
+#sidebar.visable{
+    left:0px;
 }

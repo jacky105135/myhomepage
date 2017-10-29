@@ -58,11 +58,11 @@ ul{
 }
 #sidebar {
     background:rgba(235, 157, 6, 0.77);
-    width:200px;
+    width:300px;
     height:100%;
     display:block;
     position:absolute;
-    left:-200px;
+    left:-300px;
     top:0px;
     transition:left 0.3s linear;
 }

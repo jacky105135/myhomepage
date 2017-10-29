@@ -110,9 +110,9 @@ ul{
     box-sizing:border-box;
     width:20vw;
     height:20vh;
-    line-height:10vh;
+    line-height:100vh;
     font-family: 'Montserrat', sans-serif;
-    text-align:right;
+    text-align:center;
     font-size:10vw;
     color:rgba(221, 245, 10, 0.47);
 }

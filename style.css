@@ -112,8 +112,9 @@ ul{
     height:100vh;
     line-height:100vh;
     font-family: 'Montserrat', sans-serif;
-    text-align:center;
+    text-align:end;
     font-size:10vw;
+    color:rgba(221, 245, 10, 0.47);
 }
 
 

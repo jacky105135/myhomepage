@@ -57,7 +57,7 @@ ul{
     
 }
 .sidebar {
-    background:rgba(220, 184, 35, 0.53);
+    background:#d3d3d3;
     width:200px;
     height:100%;
     display:block;

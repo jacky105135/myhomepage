@@ -108,9 +108,9 @@ ul{
     margin:0px;
     padding:0px;
     box-sizing:border-box;
-    width:20vw;
+    width:100vw;
     height:20vh;
-    line-height:100vh;
+    line-height:10vh;
     font-family: 'Montserrat', sans-serif;
     text-align:center;
     font-size:10vw;

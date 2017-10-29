@@ -89,6 +89,9 @@ ul{
     height:15px;
     cursor:pointer;
     margin:20px;
+    position:absolute;
+    top:0px;
+    right:-60px;
 }
 #sidebar-btn span{
     height:3px;

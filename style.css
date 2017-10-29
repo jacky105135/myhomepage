@@ -93,6 +93,9 @@ ul{
     top:0px;
     right:-60px;
 }
+#sidebar-btn:hover{
+    color:#e0f021;
+}
 #sidebar-btn span{
     height:3px;
     background:rgba(235, 157, 6, 0.9);

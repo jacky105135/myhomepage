@@ -92,6 +92,7 @@ ul{
     position:absolute;
     top:0px;
     right:-60px;
+    transition: all ease-in-out 250ms;
 }
 #sidebar-btn:hover{
     color:#e0f021;

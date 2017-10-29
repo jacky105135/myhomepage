@@ -69,8 +69,8 @@ ul{
     list-style:none;
 }
 #sidebar ul li a{
-    background:;
-    color:;
+    background:rgba(232, 133, 17, 0.80);
+    color:#808080;
     border-bottom:1px solid #111;
     display:block;
     width:180px;

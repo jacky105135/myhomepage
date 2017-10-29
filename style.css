@@ -78,7 +78,7 @@ ul{
     padding:10px;    
     text-decoration:none;
 }
-#sidebar.visable{
+#sidebar.visible{
     left:0px;
     transition:left 0.3s linear;
 }

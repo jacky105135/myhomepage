@@ -69,7 +69,7 @@ ul{
     list-style:none;
 }
 #sidebar ul li a{
-    color:rgba(22, 138, 209, 0.94);
+    color:#0e3db9;
     border-bottom:1px solid #111;
     display:block;
     width:180px;

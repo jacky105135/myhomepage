@@ -82,3 +82,17 @@ ul{
     left:0px;
     transition:left 0.3s linear;
 }
+#sidebar-btn{
+    display:inline-block;
+    vertical-align:middle;
+    width:20px;
+    height:15px;
+    cursor:pointer;
+    margin:20px;
+}
+#sidebar-btn span{
+    height:1px;
+    background:rgba(235, 157, 6, 0.9);
+    margin-bottom:5px;
+    display:block;
+}

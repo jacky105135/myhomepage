@@ -80,7 +80,7 @@ ul{
     transition: all ease-in-out 250ms;
 }
 #sidebar ul li a:hover{
-    color:#0e3db9;
+    color:#f46c0b
 }
 #sidebar.visible{
     left:0px;

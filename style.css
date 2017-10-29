@@ -67,6 +67,7 @@ ul{
 }
 #sidebar ul li{
     list-style:none;
+    font-family:'Montserrat', sans-serif;
 }
 #sidebar ul li a{
     color:#0e3db9;
@@ -74,4 +75,5 @@ ul{
     display:block;
     width:180px;
     padding:10px;    
+    text-decoration:none;
 }

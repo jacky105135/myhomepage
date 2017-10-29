@@ -104,3 +104,16 @@ ul{
     margin-bottom:5px;
     display:block;
 }
+#clock {
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    width:100vw;
+    height:100vh;
+    line-height:100vh;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    font-size:15vw;
+}
+
+
